@@ -1,0 +1,13 @@
+package com.ssp.bookcab;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CabBookAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CabBookAppApplication.class, args);
+	}
+
+}
